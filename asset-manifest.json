@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-chuck/static/css/main.406d8aa8.chunk.css",
+    "main.js": "/react-chuck/static/js/main.13f3f126.chunk.js",
+    "main.js.map": "/react-chuck/static/js/main.13f3f126.chunk.js.map",
+    "runtime-main.js": "/react-chuck/static/js/runtime-main.a26f7e86.js",
+    "runtime-main.js.map": "/react-chuck/static/js/runtime-main.a26f7e86.js.map",
+    "static/css/2.d5f8747c.chunk.css": "/react-chuck/static/css/2.d5f8747c.chunk.css",
+    "static/js/2.5b43d497.chunk.js": "/react-chuck/static/js/2.5b43d497.chunk.js",
+    "static/js/2.5b43d497.chunk.js.map": "/react-chuck/static/js/2.5b43d497.chunk.js.map",
+    "static/js/3.99053cf2.chunk.js": "/react-chuck/static/js/3.99053cf2.chunk.js",
+    "static/js/3.99053cf2.chunk.js.map": "/react-chuck/static/js/3.99053cf2.chunk.js.map",
+    "index.html": "/react-chuck/index.html",
+    "static/css/2.d5f8747c.chunk.css.map": "/react-chuck/static/css/2.d5f8747c.chunk.css.map",
+    "static/css/main.406d8aa8.chunk.css.map": "/react-chuck/static/css/main.406d8aa8.chunk.css.map",
+    "static/js/2.5b43d497.chunk.js.LICENSE.txt": "/react-chuck/static/js/2.5b43d497.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-chuck/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a26f7e86.js",
+    "static/css/2.d5f8747c.chunk.css",
+    "static/js/2.5b43d497.chunk.js",
+    "static/css/main.406d8aa8.chunk.css",
+    "static/js/main.13f3f126.chunk.js"
+  ]
+}
